@@ -1,1 +1,0 @@
-escreval("controle de estoque") 
